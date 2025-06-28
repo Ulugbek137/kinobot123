@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: flask-kino-bot
+    env: python
+    plan: free
+    buildCommand: |
+      pip install --upgrade pip
+      pip install --only-binary=:all: --extra-index-url https://pypi.org/simple -r requirements.txt
+    startCommand: python flask_kino_bot_fixed.py
+    envVars:
+      - key: BOT_TOKEN
+        value: your-telegram-bot-token
