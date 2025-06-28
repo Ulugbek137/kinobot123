@@ -1,0 +1,64 @@
+{
+    "admins": [
+        7126044134,
+        7267332411,
+        8047066482
+    ],
+    "movies": {
+        "123": {
+            "file_id": "BAACAgIAAxkBAAIa5mhe0XJ3iVQbncdcZPEOEVKyKQ7KAAIvdwACRPz4SqkZuj2s9KKTNgQ",
+            "description": "🤩Kalmar O’yini 3-Fasli\n\n 1-qismi  O’zbek tilida\n\n(BIZ BILAN DOIMO BIRINCHISIZLAR)",
+            "views": 4
+        },
+        "384": {
+            "file_id": "BAACAgIAAxkBAAIbN2hfl3V6kEsT1NRwjTC_zhcZKHN0AALscAACSGfASfrXZG-Nu4-NNgQ",
+            "description": "Pusanga ketayotgan poyezd\n\n🤖 Bizning bot: @TheMovieUz_bot",
+            "views": 2
+        },
+        "112": {
+            "file_id": "BAACAgEAAxkBAAIbimhfvCyZKq3ZdIrVmjfaUYxC5o9mAAI0BAACyDDQRVTcbTiZD1gdNgQ",
+            "description": "112",
+            "views": 2
+        },
+        "5884": {
+            "file_id": "BAACAgIAAxkBAAIbrWhgGJezGoXcSvG0Bo_LhJvmrLdkAAIJHwACi2P5SPMGv8HMjV8TNgQ",
+            "description": "📹 Демоны Деборы Логан 2014"
+        }
+    },
+    "channels": [
+        {
+            "url": "https://t.me/+sLHsYc115lhkM2Fi",
+            "id": -1002887799421,
+            "type": "private"
+        },
+        {
+            "url": "https://t.me/+T9eqLc87NOs3OWJi",
+            "id": -1002812863518,
+            "type": "private"
+        },
+        {
+            "url": "https://t.me/+yPAr7Tv4L4k0YWFi",
+            "id": -1002748382178,
+            "type": "private"
+        }
+    ],
+    "bots": [],
+    "force_sub": true,
+    "users": {
+        "7126044134": 1751128453,
+        "6995612692": 1751079559,
+        "5221923988": 1751040960,
+        "6030691459": 1751027952,
+        "6410283071": 1749663330,
+        "7267332411": 1751028154,
+        "8047066482": 1751088914,
+        "5216833729": 1749974011,
+        "1366407781": 1749813428,
+        "1301047222": 1750099930,
+        "7569091602": 1750411093,
+        "5205668450": 1750473820,
+        "6516052274": 1750933049,
+        "7292938382": 1751107212,
+        "5601321174": 1751125816
+    }
+}
