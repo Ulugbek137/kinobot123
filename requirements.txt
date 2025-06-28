@@ -1,3 +1,4 @@
 aiogram==3.4.1
+flask==3.0.3
 pydantic==2.5.3
-pydantic-core==2.14.6; platform_system != "Linux" or platform_machine != "x86_64"
+pydantic-core==2.14.6
